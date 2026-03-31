@@ -1,2 +1,8 @@
-# ReactPortfolio
-A new personal portfolio created using React.js and easier to scale with new additions
+# React Portfolio
+
+
+```bash
+npm install tailwindcss @tailwindcss/vite
+npm install lucide-react react-router-dom tailwind-merge
+npm install @radix-ui/react-toast class-variance-authority clsx
+```
