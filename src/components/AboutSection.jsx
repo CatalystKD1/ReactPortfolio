@@ -18,7 +18,7 @@ export const AboutSection = () => {
                         who specializes in Software Development and Data Science.</p>
 
                         <p className="text-muted-foreground">
-                        I am experience in Agile and Scrum Software Development Life Cycles and 
+                        I am experienced in Agile and Scrum Software Development Life Cycles and 
                         love learning new technologies that I can bring into the work force.</p>
 
                         <p className="text-muted-forground">
@@ -56,7 +56,7 @@ export const AboutSection = () => {
                                     <User className="h-6 w-6 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg">Versitile Programmer</h4>
+                                    <h4 className="font-semibold text-lg">Versatile Programmer</h4>
                                     <p className="text-muted-foreground">
                                         Familiar with a variety of languages, frameworks and technologies.
                                     </p>
