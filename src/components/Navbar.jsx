@@ -1,6 +1,7 @@
 import {cn} from '../lib/utils';
 import {useState, useEffect} from "react";
 import { Menu, X } from 'lucide-react';
+import { ThemeToggle } from './ThemeToggle';
 
 const navItems = [
     {name: "Home", href: "#hero"},
@@ -61,7 +62,9 @@ export const Navbar = () => {
                         )}
                     >
                         <div className="flex flex-col space-y-8 text-xl">
+                            
                             {navItems.map((item,key) => (
+                                
                                 <a key={key} href={item.href} 
                                     className="text-foreground/80 hover:text-primary transition-colors duration-300"
                                     onClick={() => setIsMenuOpen(false)}
