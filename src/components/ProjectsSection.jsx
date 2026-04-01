@@ -76,7 +76,7 @@ const projects = [
     },
     { // JS Snake
         id: 9,
-        title: "JavaScript Sname",
+        title: "JavaScript Snake",
         description: "Recreation of the classic game Snake.",
         image: "/projects/Snake.jpg",
         tags: ["JavaScript", "CSS", "HTML"],
