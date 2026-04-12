@@ -83,6 +83,15 @@ const projects = [
         demoUrl: "#",
         githubUrl: "https://github.com/CatalystKD1/JavaScript-Snake"
     },
+    { // Go CRUD
+        id: 9,
+        title: "CRUD Contact List",
+        description: "A CRUD application for storing contacts.",
+        image: "/projects/CRUD_list.jpg",
+        tags: ["Postman", "GO", "PostgreSQL"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/CatalystKD1/CRUD-List"
+    },
 ]
 
 export const ProjectsSection = () => {

@@ -16,6 +16,7 @@ const skills = [
     {name: "SQL", level: 95, category: "backend"},
     {name: "MySQL", level: 90, category: "backend"},
     {name: "PostgreSQL", level: 90, category: "backend"},
+    {name: "Go", level: 40, category: "backend"},
 
     // Tools
     {name: "Power Bi", level: 72, category: "tools"},
